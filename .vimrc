@@ -1,7 +1,3 @@
-" An example for a vimrc file.
-"
-" Maintainer:	Simon
-"
 "
 
 set wrapscan
